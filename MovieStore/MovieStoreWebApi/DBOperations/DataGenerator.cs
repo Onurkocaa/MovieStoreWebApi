@@ -50,7 +50,7 @@ namespace MovieStoreWebApi.DBOperations
                     {
                         GenreID = 2,
                         Title = "Source Code",
-                        Year = "2022",
+                        Year = "2011",
                         Director = "Duncan Jones",
                         Actors = " Jake Gyllenhaal, Michelle Monaghan",
                         Price = 85
